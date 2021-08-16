@@ -1,4 +1,8 @@
-# *chart-testing* Action
+<p align="center">
+  <img width="26%" src="https://user-images.githubusercontent.com/22690219/129509641-997abb38-cff0-4620-822a-0dcd0427c01a.png" />
+</p>
+
+# *chart-testing* Plugin
 
 A GitHub Action for installing the [helm/chart-testing](https://github.com/helm/chart-testing) CLI tool.
 
